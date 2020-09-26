@@ -1,2 +1,2 @@
-# Tic-TacToe
-An implementation of Tic Tac Toe as a part of FreeCodeCamp's development challenge.
+# TicTacToe
+An implementation of Tic Tac Toe game as a part of FreeCodeCamp's development challenge.
